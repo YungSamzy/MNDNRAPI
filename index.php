@@ -1,4 +1,3 @@
-<title>MN DNR API</title>
 <?php
 //Made by SamzyDev
 include('simple_html_dom.php');
